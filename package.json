@@ -1,0 +1,11 @@
+{
+  "name": "go-barber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/igorpoubel/go-barber.git",
+  "author": "Igor Poubel <ipoubellopes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
